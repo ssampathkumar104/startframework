@@ -3,3 +3,4 @@ Welcome to maven  file. This file contains list of planned depenedencies to be a
 2. Extent
 3. Apache POI
 4. JAVA Rest Assured
+5. Sikuli 
