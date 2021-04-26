@@ -1,0 +1,5 @@
+Welcome to maven  file. This file contains list of planned depenedencies to be added.
+1. TestNG
+2. Extent
+3. Apache POI
+4. JAVA Rest Assured
