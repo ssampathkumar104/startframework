@@ -5,3 +5,6 @@ Welcome to Plan
 3. Extent reports
 4. gitHub
 5. Saucelabs
+6. Jmeter
+7. Java rest-Assured
+
