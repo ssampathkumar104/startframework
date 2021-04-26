@@ -1,0 +1,7 @@
+Welcome to Plan
+
+1. Selenium
+2. TestNG
+3. Extent reports
+4. gitHub
+5. Saucelabs
